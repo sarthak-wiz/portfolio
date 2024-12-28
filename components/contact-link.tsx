@@ -78,11 +78,13 @@ const Contact = () => {
         <ContactItem icon={<Copy />}>
           <ContactCopyItem title="Discord" copy="@sarthxk20" />
         </ContactItem>
+        {/*
         <ContactItem icon={<ArrowUpRight />}>
-          <a href="https://read.cv/mitul" target="_blank">
+          <a href="#" target="_blank">
             CV
           </a>
         </ContactItem>
+        */}
       </div>
     </Section>
   );

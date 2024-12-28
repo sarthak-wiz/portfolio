@@ -29,10 +29,10 @@ export const metadata: Metadata = {
     title: "Sarthak Jain",
     description: "Web Developer, AI Engineer.",
     images: "/og.png",
-    url: "https://1λ.com",
+    url: "https://sarthak-wiz.vercel.app/",
   },
   alternates: {
-    canonical: "https://1λ.com",
+    canonical: "https://sarthak-wiz.vercel.app/",
   },
   twitter: {
     site: "@sarthxk20",

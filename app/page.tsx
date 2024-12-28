@@ -210,7 +210,7 @@ const Footer = () => {
   return (
     <Section>
       <div className="max-w-xs mt-12 text-sm text-gray-11 md:mt-0">
-        You can view the code {" "} <LinkPrimitive href="https://github.com/name/website" external>here</LinkPrimitive>.
+        You can view the code {" "} <LinkPrimitive href="https://github.com/sarthak-wiz/portfolio" external>here</LinkPrimitive>.
       </div>
     </Section>
   );
